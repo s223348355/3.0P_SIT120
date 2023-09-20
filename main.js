@@ -128,7 +128,7 @@ const ProjectsPage = {
             techStack: ['HTML', 'CSS', 'JavaScript', "liquid"],
             link: 'http://jlcautomotive.com.au'
           },
-          // ... other projects
+
         ]
       };
     },
